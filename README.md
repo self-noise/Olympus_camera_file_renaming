@@ -50,3 +50,8 @@ The script file is located in this repository, and is named 'rename_em1_hires.sh
 3. When you have loaded an SD card containing high resolution RAW files produced by an Olympus or OM System camera, but prior to opening Lightroon, fire up your command line interface and navigate to the folder on the SD card that contains images (e.g., '/Volumes/Untitled/DCIM/100OLYMP').
 4. Run the script, by typing 'rename_em1_hires.sh' and pressing 'Enter'. The script will find and rename any 20 MP '.ORI' files, and report back to you on any filenames it has changed.
 5. Fire up Lightroom and import images as usual. The 20 MP files will be easily identified via filename and/or metadata filtering.
+
+**Notes and caveats**
+
+- Use this script at your own risk and discretion. It works perfectly on my machine, but it's worth testing with non-important image files on your system, before you use it wholesale.
+- Note that my command line interface uses the 'zsh' shell. If you are using a different shell, you will need to edit line 1 of the script so it addresses the correct shell.
