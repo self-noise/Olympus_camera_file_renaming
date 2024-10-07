@@ -13,9 +13,11 @@ Here is a nice overview of the technical background: https://www.philnortonphoto
 
 I up set my cameras to produce RAW files, which I develop using software like Adobe Lightroom and DXO Pure Raw. When using the Olympus or OM System high resolution modes, 3 files are created. For my E-M1 mk III, these are:
 
-XXXXX.ORF
-XXXXX.JPG
-XXXXX.ORI
+- XXXXX.ORF (the high resolution RAW file, consisting of 80 MP of data)
+- XXXXX.JPG (a JPG rendering of the high resolution file, rendered at 50 MP)
+- XXXXX.ORI (the first image of the multi-shot sequence that the camera captured, which is a straightforward RAW file with 20 MP of resolution)
+
+where 'XXXXX' might be 'E9272074', depending on how you have your in-camera filnaming set up.
 
 **The problem**
 
