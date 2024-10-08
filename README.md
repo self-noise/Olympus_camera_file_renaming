@@ -11,7 +11,7 @@ Here is a nice overview of the technical background: https://www.philnortonphoto
 
 **Files and extensions**
 
-I up set my cameras to produce RAW files, which I develop using software like Adobe Lightroom and DXO Pure Raw. When using the Olympus or OM System high resolution modes, 3 files are created. For my E-M1 mk III, these are:
+I set up my cameras to produce RAW files, which I develop using software like Adobe Lightroom and DXO Pure Raw. When using the Olympus or OM System high resolution modes, 3 files are created. For my E-M1 mk III, these are:
 
 - XXXXX.ORF (the high resolution RAW file, consisting of 80 MP of data)
 - XXXXX.JPG (a JPG rendering of the high resolution file, rendered at 50 MP)
